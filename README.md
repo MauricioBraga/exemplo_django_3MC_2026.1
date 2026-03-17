@@ -1,0 +1,1 @@
+# exemplo_django_3MC_2026.1
